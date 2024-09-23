@@ -8,9 +8,13 @@
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VorosDavidVasvari&theme=matrix" alt="Trophies"/></a>
 </div>
 
+<br>
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VorosDavidVasvari&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most used langs"/>
 </div>
+
+<br>
 
 <div align="center">
     <a align="left" href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false&Background=000000&Title=A60000&Ring=FFD700"><img  alt="VorosDavidVasvari's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/VorosDavidVasvari?cardType=level&theme=dark&preferLogin=false&Background=000000&Title=A60000&Ring=FFD700"/></a>
